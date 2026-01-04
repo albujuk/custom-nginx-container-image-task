@@ -24,7 +24,7 @@ docker push albujuk/custom-nginx:latest
 ```
 
 
-![](img_1.png)
+![](img_2.png)
 
 now the image is hosted in a private DockerHub registry.
 
